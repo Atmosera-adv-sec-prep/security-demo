@@ -1,3 +1,3 @@
 # Sample repo for security training
 
-token
+Andrew Scoppa
